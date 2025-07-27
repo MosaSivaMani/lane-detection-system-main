@@ -144,9 +144,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
+## 👨‍💻 Contact
 GitHub: [@MosaSivaMani](https://github.com/MosaSivaMani)
 Email: [mosasiva6@gmail.com](mosasiva6@gmail.com)
 
