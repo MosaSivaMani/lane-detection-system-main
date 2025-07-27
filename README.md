@@ -100,6 +100,9 @@ python lanedet.py
 
 ## 📤 Output
 
+
+https://github.com/user-attachments/assets/877edb2e-d25e-4b71-ba18-73de217a242f
+
 * Detected lanes will be drawn in **green**
 * Final processed video will be saved as `Output_Lane_det.mp4`
 * Press `q` to quit during live display
@@ -144,8 +147,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: [@yourusername](https://github.com/MosaSivaMani)
-Email: [your.email@example.com](mosasiva6@gmail.com)
+GitHub: [@MosaSivaMani](https://github.com/MosaSivaMani)
+Email: [mosasiva6@gmail.com](mosasiva6@gmail.com)
 
 ```
 
