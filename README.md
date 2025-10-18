@@ -21,7 +21,7 @@ lane-detection-system-main/
 
 ---
 
-## 🧰 Technologies Used
+## 🧰 Technologies Used 
 
 - **Python 3.6+**
 - **OpenCV** – for image and video processing
